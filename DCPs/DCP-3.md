@@ -1,10 +1,14 @@
-# DCP 3 - Impossible Finance Loyalty System
-
-→ Type / category
-
-## DCP summary
-
 ---
+dcp: 3
+title: Impossible Finance Loyalty System
+status: Draft
+type: Meta
+category: Core
+author: xxx
+created: 2022-3-15
+---
+
+## Summary
 
 Your protocol / product / project name
 
@@ -16,18 +20,11 @@ Other infos:
 
 ## Description
 
----
-
 ## Use case
-
----
 
 Please introduce your protocol / data standards, and how to use it?
 
-
 ## Data feature specification
-
----
 
 ### **I. IF_fans_token_threshold**
 
@@ -77,13 +74,7 @@ Please introduce your protocol / data standards, and how to use it?
 
 **IF_fans_NFT_holds**
 
----
-
-→ TODO: Github PR tags to manage process
-
 ## Data Compatibility & Collaboration
-
----
 
 → How does KNN3 & other DCP members integrate this DCP?
 
@@ -91,10 +82,6 @@ Please introduce your protocol / data standards, and how to use it?
 
 ## Reference
 
----
-
 [https://eips.ethereum.org/EIPS/eip-1155](https://eips.ethereum.org/EIPS/eip-1155)
 
 ## Contributor
-
----

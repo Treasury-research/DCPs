@@ -1,10 +1,14 @@
-# DCP 1 - Pigeon Envelope
-
-→ Type / category
-
-## DCP summary
-
 ---
+dcp: 1
+title: Pigeon Envelope
+status: Draft
+type: Meta
+category: Core
+author: xxx
+created: 2022-3-15
+---
+
+## Summary
 
 Your protocol / product / project name
 
@@ -16,18 +20,11 @@ Other infos:
 
 ## Description
 
----
-
 ## Use case
-
----
 
 Please introduce your protocol / data standards, and how to use it?
 
-
 ## Data feature specification
-
----
 
 ### **I. xxxxx**
 
@@ -61,15 +58,7 @@ Please introduce your protocol / data standards, and how to use it?
 
 - 
 
-
-
----
-
-→ TODO: Github PR tags to manage process
-
 ## Data Compatibility & Collaboration
-
----
 
 → How does KNN3 & other DCP members integrate this DCP?
 
@@ -77,9 +66,4 @@ Please introduce your protocol / data standards, and how to use it?
 
 ## Reference
 
----
-
-
 ## Contributor
-
----
